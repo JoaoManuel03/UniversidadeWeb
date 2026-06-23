@@ -1,0 +1,302 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Segoe UI, Arial, sans-serif;
+    background:#f4f6f9;
+}
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:240px;
+    height:100vh;
+    background:#1F3A5F;
+}
+
+.logo{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+    padding:25px;
+    border-bottom:1px solid rgba(255,255,255,0.15);
+}
+
+.menu{
+    list-style:none;
+}
+
+.menu li a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:15px 25px;
+}
+
+.menu li a:hover{
+    background:#2C5282;
+}
+
+.main{
+    margin-left:240px;
+}
+
+.header{
+    height:70px;
+    background:white;
+    display:flex;
+    align-items:center;
+    padding:0 30px;
+    border-bottom:1px solid #ddd;
+}
+
+.content{
+    padding:30px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:8px;
+    box-shadow:0 2px 5px rgba(0,0,0,.08);
+}
+
+.card h2{
+    margin-bottom:15px;
+    color:#1F3A5F;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    background:#1F3A5F;
+    color:white;
+    text-align:left;
+    padding:12px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #ddd;
+}*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Segoe UI, Arial, sans-serif;
+    background:#f4f6f9;
+}
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:240px;
+    height:100vh;
+    background:#1F3A5F;
+}
+
+.logo{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+    padding:25px;
+    border-bottom:1px solid rgba(255,255,255,0.15);
+}
+
+.menu{
+    list-style:none;
+}
+
+.menu li a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:15px 25px;
+}
+
+.menu li a:hover{
+    background:#2C5282;
+}
+
+.main{
+    margin-left:240px;
+}
+
+.header{
+    height:70px;
+    background:white;
+    display:flex;
+    align-items:center;
+    padding:0 30px;
+    border-bottom:1px solid #ddd;
+}
+
+.content{
+    padding:30px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:8px;
+    box-shadow:0 2px 5px rgba(0,0,0,.08);
+}
+
+.card h2{
+    margin-bottom:15px;
+    color:#1F3A5F;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    background:#1F3A5F;
+    color:white;
+    text-align:left;
+    padding:12px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #ddd;
+}*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Segoe UI, Arial, sans-serif;
+    background:#f4f6f9;
+}
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:240px;
+    height:100vh;
+    background:#1F3A5F;
+}
+
+.logo{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+    padding:25px;
+    border-bottom:1px solid rgba(255,255,255,0.15);
+}
+
+.menu{
+    list-style:none;
+}
+
+.menu li a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:15px 25px;
+}
+
+.menu li a:hover{
+    background:#2C5282;
+}
+
+.main{
+    margin-left:240px;
+}
+
+.header{
+    height:70px;
+    background:white;
+    display:flex;
+    align-items:center;
+    padding:0 30px;
+    border-bottom:1px solid #ddd;
+}
+
+.content{
+    padding:30px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:8px;
+    box-shadow:0 2px 5px rgba(0,0,0,.08);
+}
+
+.card h2{
+    margin-bottom:15px;
+    color:#1F3A5F;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    background:#1F3A5F;
+    color:white;
+    text-align:left;
+    padding:12px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #ddd;
+}
+.btn{
+    background:#1F3A5F;
+    color:white;
+    border:none;
+    padding:10px 15px;
+    border-radius:5px;
+    cursor:pointer;
+    text-decoration:none;
+}
+
+.btn:hover{
+    background:#2C5282;
+}
+
+.form-group{
+    margin-bottom:15px;
+}
+
+.form-group label{
+    display:block;
+    margin-bottom:5px;
+    font-weight:600;
+}
+
+.form-group input,
+.form-group select{
+    width:100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+.actions a{
+    text-decoration:none;
+    margin-right:10px;
+}
+
+.page-title{
+    margin-bottom:20px;
+}
